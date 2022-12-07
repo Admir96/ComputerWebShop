@@ -1,0 +1,38 @@
+﻿[
+  {
+    "Name": "katharine",
+    "SurName": "lucci",
+    "DateOfBirth": "1997-01-22",
+    "City": "Deputy",
+    "Country": "Libya"
+  },
+  {
+    "Name": "serena",
+    "SurName": "leki",
+    "DateOfBirth": "1968-02-15",
+    "City": "Lacomb",
+    "Country": "Bosnia and Herzegovina"
+  },
+  {
+    "Name": "Lolita",
+    "SurName": "laulic",
+    "DateOfBirth": "1971-09-19",
+    "City": "Connerton",
+    "Country": "Greece"
+  },
+  {
+    "Name": "Wanda",
+    "SurName": "wandali",
+    "DateOfBirth": "1975-09-28",
+    "City": "Sussex",
+    "Country": "Korea (South)"
+  },
+
+  {
+    "Name": "ada",
+    "SurName": "adalic",
+    "DateOfBirth": "1968-12-11",
+    "City": "Twilight",
+    "Country": "Togo"
+  }
+]
